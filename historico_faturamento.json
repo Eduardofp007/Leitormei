@@ -1,0 +1,95 @@
+[
+    {
+        "periodo": "Mai/2026",
+        "plataformas": [
+            {
+                "nome": "99Food",
+                "tipo": "comercio",
+                "valor": 185.4
+            }
+        ],
+        "faturamento_comercio": 185.4,
+        "faturamento_servicos": 0.0,
+        "faturamento_total": 185.4,
+        "nome_arquivo": "99_maio_2026.jpeg",
+        "data_processamento": "01/06/2026 00:31"
+    },
+    {
+        "periodo": "Jan/2026",
+        "plataformas": [],
+        "faturamento_comercio": 0.0,
+        "faturamento_servicos": 0.0,
+        "faturamento_total": 0.0,
+        "nome_arquivo": "ifood_ janeiro_ 2026.jpeg",
+        "data_processamento": "01/06/2026 00:31"
+    },
+    {
+        "periodo": "Abr/2026",
+        "plataformas": [
+            {
+                "nome": "Outros",
+                "tipo": "comercio",
+                "valor": 2208.27
+            }
+        ],
+        "faturamento_comercio": 2208.27,
+        "faturamento_servicos": 0.0,
+        "faturamento_total": 2208.27,
+        "nome_arquivo": "ifood_abril_2026.jpeg",
+        "data_processamento": "01/06/2026 00:32"
+    },
+    {
+        "periodo": "Fev/2026",
+        "plataformas": [],
+        "faturamento_comercio": 0.0,
+        "faturamento_servicos": 0.0,
+        "faturamento_total": 0.0,
+        "nome_arquivo": "ifood_feveiro_2026.jpeg",
+        "data_processamento": "01/06/2026 00:32"
+    },
+    {
+        "periodo": "Mai/2026",
+        "plataformas": [
+            {
+                "nome": "Outros",
+                "tipo": "comercio",
+                "valor": 1550.03
+            }
+        ],
+        "faturamento_comercio": 1550.03,
+        "faturamento_servicos": 0.0,
+        "faturamento_total": 1550.03,
+        "nome_arquivo": "Ifood_maio_2026 Ifood.jpeg",
+        "data_processamento": "01/06/2026 00:33"
+    },
+    {
+        "periodo": "Mar/2026",
+        "plataformas": [
+            {
+                "nome": "Outros",
+                "tipo": "comercio",
+                "valor": 838.0
+            }
+        ],
+        "faturamento_comercio": 838.0,
+        "faturamento_servicos": 0.0,
+        "faturamento_total": 838.0,
+        "nome_arquivo": "Ifood_marco_2026.jpeg",
+        "data_processamento": "01/06/2026 00:33"
+    },
+    {
+        "periodo": "Mai/2026",
+        "plataformas": [
+            {
+                "nome": "Stone",
+                "tipo": "comercio",
+                "valor": 155.0
+            }
+        ],
+        "faturamento_comercio": 155.0,
+        "faturamento_servicos": 0.0,
+        "faturamento_total": 155.0,
+        "nome_arquivo": "stone_2026.jpeg",
+        "data_processamento": "01/06/2026 00:34"
+    }
+]
